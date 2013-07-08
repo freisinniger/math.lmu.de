@@ -1,0 +1,309 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+    "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="de">
+<head><meta name="generator" content="Fiona-Imitat - RZ Math. Inst. Univ. Muenchen ">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<title></title>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<!--<link rel="alternate" type="application/rss+xml" href="funktionen/rss/news.xml" title="@{site_config.site_title} - News">-->
+<link type="text/css" rel="stylesheet" href="/_assets/css/screen.css" media="screen,print" title="lmustyle">
+<link type="text/css" rel="stylesheet" href="/_assets/css/print.css" media="print" title="lmustyle">
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="/_assets/css/screen-ie6.css" media="screen" title="lmustyle">
+<![endif]-->
+<link media="screen,print" href="http://cms-static.uni-muenchen.de/default/jquery-fancybox/latest/jquery_fancybox-1_3_41.css" type="text/css" rel="stylesheet" title="lmustyle">
+<script src="http://cms-static.uni-muenchen.de/default/jquery/latest/jquery.js" type="text/javascript"></script>
+<script src="http://cms-static.uni-muenchen.de/default/jquery-ui/latest/jquery-ui-widgets.js" type="text/javascript"></script>
+<script src="http://cms-static.uni-muenchen.de/default/jquery-fancybox/latest/jquery_fancybox-1_3_4_pack.js" type="text/javascript"></script>
+<script src="http://cms-static.uni-muenchen.de/default/jquery-fancybox/latest/jquery_mousewheel-3_0_4_pack.js" type="text/javascript"></script>
+<script src="http://cms-static.uni-muenchen.de/default/lmu/js/lmu-functions.js" type="text/javascript"></script>
+</head>
+<body id="top">
+<div id="page" class="page page-standard page-17645431">
+<div id="home" class="home kopfbild kopfbild-ueberuns kopfbild-ueberuns-kontakt">
+<a href="/index.html" alt="Department Mathematik" title="Department Mathematik"> <img src="http://cms-static.uni-muenchen.de/default/lmu/img/blank.png" class="home-img" alt="Department Mathematik" title="Department Mathematik"> </a>
+</div>
+<div class="logo-print"> <img border="0" src="http://cms-static.uni-muenchen.de/default/lmu/img/header-print.gif" alt="print"> </div>
+<hr class="g-hidden">
+<div id="bar" class="mod-bar kopfbild kopfbild-ueberuns kopfbild-ueberuns-kontakt">
+            <div id="search" class="m-block m-block-search">
+                <h6 class="g-area-heading area-heading">Suche</h6>
+                <form action="http://www.mathematik.uni-muenchen.de/funktionen/suche/index.html" id="cref_iframe">
+                    <input type="hidden" name="cref" value="http://www.mathematik.uni-muenchen.de/funktionen/suche/cse_config.xml">
+                    <input type="hidden" name="cof" value="FORID:11">
+                    <fieldset class="m-search-wrapper">
+                        <input type="text" name="q" value="Suche" class="m-search-term" onclick="this.value=''"><input value="Suchen" type="submit" name="sa" alt="Suche starten" title="Suche starten" class="m-search-button">
+                    </fieldset>
+                </form>
+                <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cref_iframe"></script>
+                <script type="text/javascript" src="http://cms-static.uni-muenchen.de/default/lmu/js/google-cse-rebrand-lmu.js"></script>
+            </div>
+    <div id="fn" class="m-block m-block-fn">
+        <h6 class="g-area-heading area-heading">Links und Funktionen</h6>
+        <ul class="m-list">
+            <li class="m-item m-first"><a href="http://www.uni-muenchen.de" class="m-link" target="_blank" title="www.lmu.de - Startseite">www.lmu.de</a></li>
+                        <li class="m-item">
+                            <a href="http://www.portal.uni-muenchen.de" target="_blank" class="m-link" title="LMU-Portal">LMU-Portal</a>
+                        </li>
+                        <li class="m-item">
+                            <a href="http://www.mathematik-informatik-statistik.uni-muenchen.de" target="_blank" class="m-link" title="Fakult&auml;t 16">Fakult&auml;t 16</a>
+                        </li>
+                        <li class="m-item">
+                            <a href="/funktionen/sitemap2/index.html" class="m-link" title="Sitemap">Sitemap</a>
+                        </li>
+                        <li class="m-item">
+                            <a href="http://www.schulportal.mathematik.uni-muenchen.de/index.html" target="_blank" class="m-link" title="Schulportal">Schulportal</a>
+                        </li>
+        </ul>
+        <div class="g-clear"></div>
+    </div>
+    <div class="g-clear"></div>
+</div>
+<hr class="g-hidden">
+<div id="bc" class="mod-bc kopfbild kopfbild-ueberuns kopfbild-ueberuns-kontakt">
+    <h6 class="g-area-heading area-heading">Navigationspfad</h6>
+        <ul class="m-list">
+                        <li class="m-item m-first">
+                            <a href="/index.html" class="m-link">Startseite</a>
+                    </li>
+                        <li class="m-item">
+                                
+                    </li>
+        </ul>
+        <div class="g-clear"></div>
+</div>
+<hr class="g-hidden">
+<div id="main" class="main">
+<div id="mainNav" class="mod-mainnav">
+    <h6 class="g-area-heading area-heading">Hauptnavigation</h6>
+<ul class="m-list m-list-1">
+                   <li class="m-item m-item-1">
+                    <a href="/aktuelles/index.html" class="m-link m-link-1">
+                               AKTUELLES
+                      </a>
+                   </li>
+    <ul class="m-list m-list-2">
+                   <li class="m-item m-item-2">
+                    <a href="/aktuelles/news/index.html" class="m-link m-link-2">
+                               Nachrichten
+                      </a>
+                   </li>
+                   <li class="m-item m-item-2">
+                    <a href="/aktuelles/vortraege/index.html" class="m-link m-link-2">
+                               Vortr&auml;ge, Kolloquien
+                      </a>
+                   </li>
+    <ul class="m-list m-list-3">
+                   <li class="m-item m-item-3">
+                    <a href="/aktuelles/vortraege/mathkoll/index.shtml" class="m-link m-link-3">
+                                           Mathematisches Kolloquium
+                      </a>
+                   </li>
+                   <li class="m-item m-item-3">
+                    <a href="/aktuelles/vortraege/versmathkoll/index.html" class="m-link m-link-3">
+                                           Versicherungsmath. Kolloquium
+                      </a>
+                   </li>
+                   <li class="m-item m-item-3">
+                    <a href="/aktuelles/vortraege/wopro/index.shtml" class="m-link m-link-3 m-selected">
+                                           Wochenprogramm
+                      </a>
+                   </li>
+                   <li class="m-item m-item-3">
+                    <a href="/aktuelles/vortraege/mathdidkoll/index.html" class="m-link m-link-3">
+                                           Mathematikdidaktisches Kolloquium
+                      </a>
+                   </li>
+                   <li class="m-item m-item-3">
+                    <a href="/aktuelles/vortraege/mathkalender/index.html" class="m-link m-link-3">
+                                           M&uuml;nchner Mathematischer Kalender
+                      </a>
+                   </li>
+                   <li class="m-item m-item-3">
+                    <a href="/aktuelles/vortraege/vortraggym/index.html" class="m-link m-link-3">
+                                           Vortr&auml;ge f&uuml;r Schulen
+                      </a>
+                   </li>
+        </ul>
+                   <li class="m-item m-item-2">
+                    <a href="/aktuelles/stellenanzeigen/index.html" class="m-link m-link-2">
+                               Stellenanzeigen
+                      </a>
+                   </li>
+                   <li class="m-item m-item-2">
+                    <a href="/aktuelles/archiv/index.html" class="m-link m-link-2">
+                               Archiv
+                      </a>
+                   </li>
+        </ul>
+                   <li class="m-item m-item-1">
+                    <a href="/ueber_uns/index.html" class="m-link m-link-1">
+                               &Uuml;BER UNS
+                      </a>
+                   </li>
+                   <li class="m-item m-item-1">
+                    <a href="/personen/index.html" class="m-link m-link-1">
+                               PERSONEN
+                      </a>
+                   </li>
+                   <li class="m-item m-item-1">
+                    <a href="/forschung/index.html" class="m-link m-link-1">
+                               FORSCHUNG
+                      </a>
+                   </li>
+                   <li class="m-item m-item-1">
+                    <a href="/studium/index.html" class="m-link m-link-1">
+                               STUDIUM
+                      </a>
+                   </li>
+                   <li class="m-item m-item-1">
+                    <a href="/einrichtungen/index.html" class="m-link m-link-1">
+                               EINRICHTUNGEN
+                      </a>
+                   </li>
+        </ul>
+</div> 
+
+<hr class="g-hidden">
+        <div id="contentcontainer" class="contentcontainer contentcontainer-l g-grid-735">
+    <div id="cFn1" class="mod mod-cfn mod-cfn-1">
+        <h6 class="g-area-heading area-heading"></h6>
+        <ul class="m-col-2 m-buttons">
+            <li class="m-button m-button-print"><a href="#top" onClick="print();" class="m-link m-link-print" title="drucken">drucken</a></li>
+        </ul>
+        <div class="g-clear"></div>
+        <hr class="g-hidden">
+    </div>
+        <h6 class="g-area-heading area-heading">Inhaltsbereich</h6>
+<div id="content" class="content content-standard">
+<!--
+<h1 class="g-h1"></h1>
+-->
+            <div class="user-html hauptinhalt">
+<P align=right> <b>SS 2013
+</b></P>
+<P align=right> <b>Blatt 12
+</b></P>
+<center><h1>Wochenprogramm</h1><b>03.07.- 10.07.2013
+</b>
+<br>
+<table border=0  FRAME=void align=top >
+<br>
+<tr><td nowrap >             Mittwoch<td nowrap>                B 251
+ <td>      Patrycja Luszcz-Swidecka 
+,        Cracow
+
+<tr><td nowrap> 03.07.2013 
+ <td nowrap>		   16:30 Uhr
+ <td>             "Minkowski decomposition of Okounkov bodies on surfaces"
+
+<tr><td><td><td>im <a href="            http://www.mathematik.uni-muenchen.de/~ulrich/oberseminar.html        
+">                Oberseminar Zahlentheorie
+</a>
+<br>
+<tr><td nowrap >
+<td nowrap> 
+ <td>	   
+
+<tr><td nowrap> <td nowrap>		   
+ <td>
+
+<br>
+<tr><td nowrap >             Donnerstag<td nowrap>                B 252
+ <td>      Pierre Guillot
+,        Universite de Strasbourg
+
+<tr><td nowrap> 04.07.2013 
+ <td nowrap>		   14 Uhr c.t.
+ <td>             "Elementary approach to dessins d`enfants and Grothendieck-Teichmueller"
+
+<tr><td><td><td>im <a href="            http://www.mathematik.uni-muenchen.de/~morel/Ober.html          
+">                Oberseminar Motivische Algebraische Topologie
+</a>
+<br>
+<tr><td nowrap >
+<td nowrap> 
+ <td>	   
+
+<tr><td nowrap> <td nowrap>		   
+ <td>
+
+<br>
+<tr><td nowrap >             Montag<td nowrap>                Raum 2.01.10 (TUM)
+ <td>      Dr. Konrad Kolesko
+,        Uniwersytet Wrocawski, Poland
+
+<tr><td nowrap> 08.07.2013 
+ <td nowrap>		   16:30 Uhr 
+ <td>             "Linear stochastic equations in the critical case"
+
+<tr><td><td><td>im                 Oberseminar Wahrscheinlichkeitstheorie
+
+<br>
+<tr><td nowrap >
+<td nowrap> 
+ <td>	   
+
+<tr><td nowrap> <td nowrap>		   
+ <td>
+
+<br>
+<tr><td nowrap >             Mittwoch<td nowrap>                B 251
+ <td>      Halszka Tutaj-Gasinka
+,        Cracow
+
+<tr><td nowrap> 10.07.2013 
+ <td nowrap>		   16:30 Uhr
+ <td>             "Around Nagata`s conjecture"
+
+<tr><td><td><td>im <a href="            http://www.mathematik.uni-muenchen.de/~ulrich/oberseminar.html  
+">                Oberseminar Zahlentheorie
+</a>
+<br>
+<tr><td nowrap >
+<td nowrap> 
+ <td>	   
+
+<tr><td nowrap> <td nowrap>		   
+ <td>
+
+<br>
+</table></center><br>Hinweis: Redaktionsschluss:  war Mittwoch, 03.Juli, 12 Uhr.
+
+            <div class="g-clear"></div>
+          </div>
+</div>
+        <div id="cFn2" class="mod mod-cfn mod-cfn-2">
+    <hr class="g-hidden">
+    <h6 class="g-area-heading area-heading"></h6>
+    <ul class="m-col-1 m-buttons">
+        <li class="m-button m-button-print"><a href="#top" onClick="print();" class="m-link m-link-print" title="drucken">drucken</a></li>
+    </ul>
+    <ul class="m-col-2 m-buttons">
+        <li class="m-button m-button-top"><a href="#top" class="m-link m-link-top" title="nach oben">nach oben</a></li>
+    </ul>
+    <div class="g-clear"></div>
+</div>
+    </div>
+    <div class="g-clear"></div>
+</div>
+<hr class="g-hidden">
+<div id="footer" class="mod-footer">
+    <h6 class="g-area-heading area-heading">Fuﬂzeile</h6>
+    <ul class="m-list">
+                <li class="m-item">
+                        <a href="/funktionen/impressum/index.html" class="m-link" title="Impressum">Impressum</a>
+                </li>
+                <li class="m-item">
+                        <a href="/funktionen/datenschutz/index.html" class="m-link" title="Datenschutz">Datenschutz</a>
+                </li>
+                <li class="m-item">
+                        <a href="index.html" class="m-link" title="Kontakt">Kontakt</a>
+                </li>
+    </ul>
+    <div class="g-clear"></div>
+</div>
+</div>
+</body>
+</html>
+

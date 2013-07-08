@@ -1,0 +1,46 @@
+<html>
+
+<!-- math.lmu.de/~kiosk/kiosk01 -->
+
+<head>
+  <script type="text/javascript" src="jquery-1.9.1.js"></script>
+  <script type="text/javascript" charset="utf-8">
+
+    var sites = [
+      "http://freisinniger.github.io/math.lmu.de/site/index.html",
+      "http://www.math.lmu.de/aktuelles/vortraege/mathkoll/index.shtml",
+      "http://www.math.lmu.de/aktuelles/vortraege/wopro/index.shtml",
+      "http://mathcal.ma.tum.de/mc/showtalks?days=3&filter=3&format=xhtml&variant=short&",
+     ];
+
+    var currentSite = sites.length;
+    $(document).ready(function () {
+      var $iframe = $("iframe").attr("src","http://www.math.lmu.de");
+      setInterval(function() {
+        (currentSite == 0) ? currentSite = sites.length - 1 : currentSite = currentSite -1;
+        $iframe.attr("src",sites[currentSite]);
+      }, 2000);
+    });
+  </script>
+  <style type="text/css" media="screen">
+    body {
+      overflow:hidden;
+    }
+    iframe {
+      height: 100%;
+      width: 100%;
+      border: none;
+      frameborder: none;
+      border-style: solid;
+      border-width: 0px;
+      border-color: #000000;
+      scrolling: no;
+    }
+  </style>
+</head>
+
+<body>
+  <iframe></iframe>
+</body>
+
+</html>
