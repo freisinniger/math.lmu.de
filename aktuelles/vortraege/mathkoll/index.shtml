@@ -6,8 +6,8 @@
 <title>Kolloquium des Mathematischen Instituts</title>
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 <!--<link rel="alternate" type="application/rss+xml" href="funktionen/rss/news.xml" title="@{site_config.site_title} - News">-->
-<link type="text/css" rel="stylesheet" href="/_assets/css/screen.css" media="screen,print" title="lmustyle">
-<link type="text/css" rel="stylesheet" href="/_assets/css/print.css" media="print" title="lmustyle">
+<link type="text/css" rel="stylesheet" href="../../../screen.css" media="screen,print" title="lmustyle">
+<link type="text/css" rel="stylesheet" href="../../../print.css" media="print" title="lmustyle">
 <!--[if IE 6]>
 <link type="text/css" rel="stylesheet" href="/_assets/css/screen-ie6.css" media="screen" title="lmustyle">
 <![endif]-->
@@ -162,7 +162,7 @@
                       </a>
                    </li>
         </ul>
-</div> 
+</div>
 
 <hr class="g-hidden">
         <div id="contentcontainer" class="contentcontainer contentcontainer-l g-grid-735">
@@ -209,7 +209,7 @@
      <a href="http://www.mathematik.uni-muenchen.de/~mathkoll/vortraege/ss13/camia.php">
        Statistical Mechanics, Scaling Limits and <br> Random Fractal Curves</a>
   </td>
-  
+
   <td>F. Merkl</td>
 </tr>
 
@@ -231,8 +231,8 @@
 </tr>
 
 
-  
-  
+
+
 
 
 <!-- Kein Vortrag -->
